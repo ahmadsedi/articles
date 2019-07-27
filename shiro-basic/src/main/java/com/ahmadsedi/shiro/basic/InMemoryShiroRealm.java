@@ -4,6 +4,8 @@ package com.ahmadsedi.shiro.basic;
  * @author Ahmad R. Seddighi (ahmadseddighi@yahoo.com)
  * Date: 4/8/19
  * Time: 2:14 PM
+ *
+ * In Memory Shiro Realm Class
  */
 
 import org.apache.shiro.authc.*;
