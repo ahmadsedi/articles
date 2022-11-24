@@ -20,7 +20,7 @@
         <spring-framework.version>5.0.6.RELEASE</spring-framework.version>
 
         <!-- Hibernate / JPA -->
-        <hibernate.version>5.3.2.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
 
         <!-- Logging -->
         <log4j2.version>2.11.2</log4j2.version>
